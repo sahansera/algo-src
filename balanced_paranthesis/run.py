@@ -30,6 +30,3 @@ def balance_check(items):
         return True
     else:
         return False
-
-# result = balance_check('[](){([[[]]])}(')
-# print(result)
