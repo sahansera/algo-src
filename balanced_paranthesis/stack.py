@@ -17,12 +17,12 @@ class Stack(object):
     def size(self):
         return len(self.items)
 
-s = Stack()
+# s = Stack()
 
-print(s.isEmpty())
-s.push(1)
-print(s.isEmpty())
-s.pop()
-print(s.isEmpty())
-s.push(32)
-print(s.size())
+# print(s.isEmpty())
+# s.push(1)
+# print(s.isEmpty())
+# s.pop()
+# print(s.isEmpty())
+# s.push(32)
+# print(s.size())
