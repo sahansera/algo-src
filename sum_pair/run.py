@@ -1,5 +1,7 @@
+import pdb
 def find_pairs(arr, sum):
     pairs = set()
+    pdb.set_trace()
     for idx, n in enumerate(arr):
         if idx == len(arr) - 1:
             return
