@@ -1,0 +1,33 @@
+Loonycorn
+=========
+
+Intro
+-----
+VERTEX = entities, humans
+EDGE = relationship  professional graph: understand real world similarity
+
+Eg; 
+
+If vertices are PEOPLE
+ * LinkedIn - Professional relationship graph
+ * Facebook - Personal relationship (social graph)
+
+If vertices are LOCATIONS
+ * Google Maps - Subways: connectivity
+ * Uber - Taxis
+
+If vertices are LANDLINES
+ * Telstra - Phone networks
+
+Representation
+--------------
+
+(V, E)
+
+Types = undirected (two way), directed (one way)
+
+Directed graph:
+
+Source node, destination node
+
+
